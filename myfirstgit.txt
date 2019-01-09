@@ -398,6 +398,7 @@ TTTTTTTT  OOOOOOOOO  UU     UU  RRRRRRRR             EEEEEEEEE  IIIIIIIIII  FFFF
  -----------------------------------------------------------------------------------------------------------------
 HOHOHO
 
+<<<<<<< HEAD
 petite modif 
 sur la novelle branche
 123
@@ -405,4 +406,12 @@ sur la novelle branche
 123
 
 12347
+
+
+hahaha
+
+huhuhu
+
+^hiihihih
+^^^^^^^^
 
